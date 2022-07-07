@@ -675,7 +675,7 @@ spec:
 #GENERATED FOR K8S 1.20
     app.kubernetes.io/name: ingress-nginx
 #GENERATED FOR K8S 1.20
-  type: NodePort
+  type: LoadBalancer
 #GENERATED FOR K8S 1.20
 ---
 #GENERATED FOR K8S 1.20
